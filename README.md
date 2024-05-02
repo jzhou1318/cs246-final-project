@@ -1,6 +1,7 @@
 # cs246-final-project
 
 GPT2 workload in root directory
+
 data directory contains Jupyter Notebook to make certain graphs
 
 One Google Sheets: https://docs.google.com/spreadsheets/d/1-1lq_n3OEMR8P5ZGuh9GVFxq3tGNaN-fPyeJugnxJDI/edit?usp=sharing
